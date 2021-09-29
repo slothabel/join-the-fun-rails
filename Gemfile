@@ -16,9 +16,6 @@ group :development, :test do
   gem "database_cleaner"
   gem "rspec-rails"
   gem "sinatra"
-gem "pg"
-gem "activerecord"
-gem "sinatra-activerecord"
 end
 
 group :test do
